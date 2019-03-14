@@ -1,6 +1,23 @@
 [![Build Status](https://travis-ci.org/purcell/emacs.d.png?branch=master)](https://travis-ci.org/purcell/emacs.d)
 <a href="https://www.patreon.com/sanityinc"><img alt="Support me" src="https://img.shields.io/badge/Support%20Me-%F0%9F%92%97-ff69b4.svg"></a>
 
+# Based on [purcell/emacs.d](https://github.com/purcell/emacs.d)
+
+Fro newbies in Emacs, there would be some lessons when use Purcell's .emacs.d configuration: Never try to edit directly Purcell's configuration, there are two ways to change settings:
+
+* Press f10 to call the menu, then just change settings in the graphic interface.
+* Try your own lisp code in this way:
+1. make a file named local.el in the folder ~/.emacs.d/init/,
+```
+your lisp code here.
+--------
+(provide 'init-local.el)
+
+```
+2. add a line in ~/.emacs.d/init.el
+
+> require 'init-local
+
 # A reasonable Emacs config
 
 This is my emacs configuration tree, continually used and tweaked
