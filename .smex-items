@@ -1,0 +1,65 @@
+
+;; ----- smex-history -----
+(
+ magit-commit
+ magithub-settings-popup
+ magit-init
+ magit-version
+ customize
+ magithub-dashboard
+ magit-auto-revert-mode
+)
+
+;; ----- smex-data -----
+(
+ (package-refresh-contents . 1)
+ (package-list-packages . 2)
+ (python-mode . 1)
+ (markdown-mode . 6)
+ (load-theme . 4)
+ (set-face-font . 2)
+ (customize-themes . 10)
+ (set-frame-font . 20)
+ (customize . 19)
+ (menu-set-font . 2)
+ (default-text-scale-increase . 22)
+ (set-default-font . 18)
+ (Custom-save . 1)
+ (default-text-scale-mode . 8)
+ (normal-mode . 9)
+ (cnfonts-set-font-with-saved-step . 2)
+ (customize-mode . 3)
+ (customize-option . 2)
+ (customize-save-variable . 1)
+ (customize-save-customized . 1)
+ (desktop-save . 1)
+ (text-scale-set . 2)
+ (text-scale-mode . 1)
+ (default-text-scale-decrease . 1)
+ (describe-fontset . 1)
+ (describe-font . 6)
+ (package-install . 2)
+ (package-install-file . 1)
+ (default-text-scale-increment . 3)
+ (ielm . 1)
+ (cnfonts-enable . 2)
+ (cnfonts-ui-mode . 1)
+ (cnfonts-profile-edit-mode . 1)
+ (cnfonts-edit-profile . 1)
+ (cnfonts-disable . 1)
+ (cnfonts-ui . 1)
+ (cnfonts-insert-fontname . 2)
+ (magit-init . 9)
+ (magit-push . 1)
+ (magit-clone . 1)
+ (magit-status . 5)
+ (magit-push-current-to-upstream . 1)
+ (org-mode . 1)
+ (gitconfig-mode . 6)
+ (magit-auto-revert-mode . 6)
+ (magithub-edit-mode . 3)
+ (magithub-settings-popup . 2)
+ (magithub-dashboard . 4)
+ (magit-version . 9)
+ (magit-commit . 1)
+)

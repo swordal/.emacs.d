@@ -1,0 +1,44 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Mar 11 13:13:42 2019
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23685 61062 320580 0) (desktop . "208") "Peter@PETER-PC" nil nil ((((minibuffer . t) (undecorated) (skip-taskbar) (font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "wheat") (background-color . "black") (mouse-color . "black") (border-color . "#424242") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-focus-on-map) (no-accept-focus) (no-special-glyphs) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 52) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . maximized) (z-group) (visibility . t) (display-type . color) (background-mode . dark) (cursor-color . "thistle") (environment) (frameset--id . "BD68-3337-5445-1876") (frameset--mini t . t) (width . 198) (modeline . t) (unsplittable) (left + -8) (top + -8) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 80) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 16) (min-pixel-width-safe . 16)) leaf (pixel-width . 1600) (pixel-height . 822) (total-width . 200) (total-height . 51) (normal-height . 1.0) (normal-width . 1.0) (buffer "color-theme-sanityinc-solarized-autoloads.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 598) (start . 1))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history nil)
+(setq face-name-history nil)
+(setq file-name-history '("d:/Emacs/.emacs.d/elpa-26.1/color-theme-sanityinc-solarized-20190206.59/" "~/.emacs.d/elpa-26.1/color-theme-sanityinc-solarized-20190206.59/color-theme-sanityinc-solarized-autoloads.el" "~/.emacs.d/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ivy-history '("wheatgrass" "light-blue"))
+(setq minibuffer-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring '("theme"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "d:/Emacs/.emacs.d/elpa-26.1/color-theme-sanityinc-solarized-20190206.59/color-theme-sanityinc-solarized-autoloads.el"
+  "color-theme-sanityinc-solarized-autoloads.el"
+  'emacs-lisp-mode
+  '(eldoc-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode beacon-mode global-auto-revert-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode rainbow-mode)
+  598
+  '(714 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 23685 61058 577366 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (11 1256 649 770 770 785 714 1141 1189 769 634 619 617 624 564))))
+

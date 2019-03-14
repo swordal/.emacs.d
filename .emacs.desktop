@@ -1,0 +1,36 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Mar 14 15:37:37 2019
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23690 1217 378379 0) (desktop . "208") "Peter@PETER-PC" nil nil ((((minibuffer . t) (undecorated) (skip-taskbar) (font-backend uniscribe gdi) (font . "-outline-\300\277\300\254\301\214\301\245-normal-normal-normal-mono-21-*-*-*-c-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "wheat") (background-color . "black") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-focus-on-map) (no-accept-focus) (no-special-glyphs) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 36) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen) (z-group) (visibility . t) (display-type . color) (background-mode . dark) (cursor-color . "thistle") (environment) (frameset--id . "93A7-2E41-531F-1FCB") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (width . 80) (left . 269) (top . 12)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 84) (min-pixel-width . 110) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 44) (min-pixel-height-safe . 21) (min-pixel-width-safe . 22)) leaf (pixel-width . 896) (pixel-height . 735) (total-width . 81) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("magit-commit" "magithub-settings-popup" "magit-init" "magit-version"))
+(setq face-name-history nil)
+(setq file-name-history '("~/.emacs.d/custom.el" "~/.emacs.d/" "d:/Emacs/.emacs.d/" "~/.emacs.d/custom.el" "~/.emacs.d/custom.el" "~/.emacs.d/custom.el" "d:/Emacs/.emacs.d/.git/" "d:/Emacs/.emacs" "d:/Emacs/.emacs.d/.git/config" "~/.emacs.d/lisp/init-git.el" "~/.emacs.d/custom.el" "~/.emacs.d/lisp/init-git.el" "~/.emacs.d/custom.el" "d:/Emacs/.emacs.d/lisp/init-local.el" "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/scratch.elc" "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/scratch-autoloads.el" "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/" "~/.emacs.d/elpa-26.1/scratch-20170614.2101/scratch.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "d:/AutoHotkey/" "~/.emacs.d/custom.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/custom.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "~/.emacs.d/lisp/init-local.el" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/init.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/.emacs.d/lisp/init-cnfonts.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/custom.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "~/.emacs.d/lisp/init-local.el" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/lisp/init-cnfonts.el" "~/.emacs.d/init.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ivy-history '("*scratch*" "*Messages*" "*scratch*" "*Messages*" "*Ibuffer*" "d:/Emacs/.emacs.d/lisp/init-git.el" "*Ibuffer*" "hei" "custom.el" "jhenghei" "‘¿¬‘Ìå" "‘ÎÄœô£ª‘æä‘Õý‘ºÚ" "*scratch*" "switch-window.el" "init-cnfonts.el" "*scratch*" "switch-window.el" "-outline-Microsoft JhengHei-normal-normal-normal-sans-19-*-*-*-p-*-iso8859-1" "jh" "kai" ".*sun" "-outline-Microsoft JhengHei-normal-normal-normal-sans-21-*-*-*-p-*-iso10646-1" ".*simsun" ".*sims" ".*jheng" "*scratch*" ".*kai" "-outline-Consolas-normal-normal-normal-mono-*-*-*-*-c-*-iso8859-1" ".*kai.*646" "ibuffer-" "custom.el" "*scratch*" "custom.el" "*scratch*" ".*hei" "-outline-MS " "-outline.*microsoft" "set-default-font" "*Customize Group: Faces*" "*Customize Group: Emacs*" "init-themes.el" "adwaita" "wheatgrass"))
+(setq magit-revision-history nil)
+(setq minibuffer-history '("‘Î¢‘Èí‘ÑÅ‘ºÚ" "wenquanyi" "Microsoft" "1" "-17" "10" "Microsoft Yahei" "Microsoft YaHei -16" "‘Î¢‘Èí‘ÑÅ‘ºÚ-12"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring '("theme"))
+(setq register-alist '((48 . "git")))
+(setq search-ring '("scrac" "scratch" "theme" "cnfont" "font" "chinese" "fontd" "font" "scale" "theme" "10" "611" "size" "default-text-scale" "scale" "customize"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:

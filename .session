@@ -1,0 +1,54 @@
+;;; -*- coding: utf-8; -*-
+;;; Automatically generated on Thu Mar 14 15:37:37 2019
+;;; Invoked by Peter@PETER-PC using 26.1
+(setq-default kill-ring '(#(" *%  magit-process: .ema...      208k Magit Pro... 
+" 0 1 (ibuffer-properties \.\.\. ibuffer-filter-group #1="Git: ~/.emacs.d/") 1 2 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 2 3 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 3 4 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 4 5 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 5 24 (mouse-face highlight keymap \.\.\. ibuffer-name-column t help-echo \.\.\. font-lock-face font-lock-constant-face ibuffer-properties \.\.\. ibuffer-filter-group #1#) 24 27 (font-lock-face bold ibuffer-properties \.\.\. ibuffer-filter-group #1#) 27 28 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 28 37 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 37 38 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 38 47 (mouse-face highlight keymap \.\.\. help-echo "mouse-2: filter by this mode" ibuffer-properties \.\.\. ibuffer-filter-group #1#) 47 50 (font-lock-face bold ibuffer-properties \.\.\. ibuffer-filter-group #1#) 50 51 (ibuffer-properties \.\.\. ibuffer-filter-group #1#) 51 52 (ibuffer-filter-group #1#)) "…or create a new repository on the command line
+echo \"# .emacs.d\" >> README.md
+git init
+git add README.md
+git commit -m \"first commit\"
+git remote add origin https://github.com/swordal/.emacs.d.git
+git push -u origin master
+" #("a
+lkajsdkljfasd
+大家" 0 2 (fontified t) 2 16 (fontified t) 16 18 (fontified t)) "(setq initial-scratch-message \"\")
+"))
+(setq-default session-file-alist '(("~/.emacs.d/custom.el" 1 1 1 nil nil 3852 (overwrite-mode)) ("~/.emacs.d/lisp/init-local.el" 766 681 1 nil nil 752 (overwrite-mode)) ("e:/Dropbox/ToDo/a.md" 2573 1202 1 nil nil 2573 (overwrite-mode)) ("~/.emacs.d/init.el" 2646 3457 1 nil nil 2403 (overwrite-mode)) ("~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" 4387 3192 1 nil nil 4387 (overwrite-mode)) ("~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" 2119 752 1 nil nil 2119 (overwrite-mode)) ("c:/Program Files/WenQuanYi/ZenHei/README.txt" 3643 3517 1 nil nil 3643 (overwrite-mode)) ("~/.emacs.d/lisp/init-windows.el" 4175 190 1 nil nil 1870 (overwrite-mode)) ("~/.emacs.d/lisp/init-gui-frames.el" 3308 1523 1 nil nil 3260 (overwrite-mode)) ("~/.emacs.d/lisp/init-themes.el" 1528 1 1 nil nil 1529 (overwrite-mode)) ("~/share/emacs/26.1/lisp/window.el" 84981 264685 1 nil nil 84981 (overwrite-mode)) ("~/.emacs.d/elpa-26.1/minibuffer-complete-cycle-20130813.1645/minibuffer-complete-cycle-autoloads.el" 769 nil 1 nil nil 769 (overwrite-mode)) ("~/.emacs.d/elpa-26.1/ibuffer-git-20110508.731/ibuffer-git-autoloads.el" 441 nil 1 nil nil 441 (overwrite-mode)) ("~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" 1228 633 1 nil nil 633 (overwrite-mode)) ("~/.emacs.d/lisp/init-font.el" 1 1 1 nil nil 1 (overwrite-mode))))
+(setq-default file-name-history '("~/.emacs.d/custom.el" "~/.emacs.d/" "d:/Emacs/.emacs.d/" "d:/Emacs/.emacs.d/.git/" "d:/Emacs/.emacs" "d:/Emacs/.emacs.d/.git/config" "~/.emacs.d/lisp/init-git.el" "d:/Emacs/.emacs.d/lisp/init-local.el" "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/scratch.elc" "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/scratch-autoloads.el" "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/" "~/.emacs.d/elpa-26.1/scratch-20170614.2101/scratch.el" "~/.emacs.d/init.el" "e:/Dropbox/ToDo/a.md" "d:/AutoHotkey/" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "~/.emacs.d/lisp/init-local.el" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/.emacs.d/lisp/init-cnfonts.el"))
+(setq-default search-ring '("scrac" "scratch" "theme" "cnfont" "font" "chinese" "fontd" "scale" "10" "611" "size" "default-text-scale" "customize"))
+(setq-default regexp-search-ring '("theme"))
+(setq-default buffer-name-history '("*Backtrace*"))
+(setq-default coding-system-history '("raw-text"))
+(setq-default command-history '((switch-to-buffer "*Backtrace*" nil (quote force-same-window)) (magit-commit) (magithub-settings-popup nil) (magit-init "d:/Emacs/.emacs.d/") (magit-version t) (dired "d:/Emacs/.emacs.d/" nil) (customize) (list-directory "d:/Emacs/.emacs.d/" nil) (gitconfig-mode) (list-directory "d:/Emacs/.emacs.d/.git/" nil) (org-mode) (markdown-mode) (ibuffer-find-file "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/scratch-autoloads.el" t) (ibuffer-find-file "d:/Emacs/.emacs.d/elpa-26.1/scratch-20170614.2101/" t) (set-frame-font "-outline-Microsoft JhengHei-bold-normal-normal-sans-*-*-*-*-p-*-iso8859-7" nil nil) (set-frame-font "-outline-Microsoft JhengHei-normal-normal-normal-sans-*-*-*-*-p-*-iso8859-7" nil nil) (cnfonts-set-font-with-saved-step) (cnfonts-insert-fontname) (set-frame-font "-outline-Microsoft JhengHei-normal-normal-normal-sans-19-*-*-*-p-*-iso8859-1" nil nil) (set-frame-font "-outline-Microsoft JhengHei-normal-normal-normal-sans-*-*-*-*-p-*-iso8859-1" nil nil) (set-frame-font "-outline-DFKai-SB-normal-normal-normal-script-*-*-*-*-c-*-iso10646-1" nil nil) (set-frame-font "-outline-SimSun-ExtB-normal-normal-normal-mono-*-*-*-*-c-*-gb2312.1980-0" nil nil)))
+(setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -I -e \"%s\""))
+(setq-default dcl-option-history '("dcl-basic-offset" "dcl-continuation-offset" "dcl-margin-offset" "dcl-margin-label-offset" "dcl-comment-line-regexp" "dcl-block-begin-regexp" "dcl-block-end-regexp" "dcl-tab-always-indent" "dcl-electric-characters" "dcl-electric-reindent-regexps" "dcl-tempo-comma" "dcl-tempo-left-paren" "dcl-tempo-right-paren" "dcl-calc-command-indent-function" "dcl-calc-cont-indent-function" "comment-start" "comment-start-skip"))
+(setq-default extended-command-history '("magit-commit" "magithub-settings-popup" "magit-init" "magit-version"))
+(setq-default hi-lock-face-history '("hi-yellow" "hi-pink" "hi-green" "hi-blue" "hi-black-b" "hi-blue-b" "hi-red-b" "hi-green-b" "hi-black-hb"))
+(setq-default ivy-history '("*scratch*" "*Messages*" "*Ibuffer*" "d:/Emacs/.emacs.d/lisp/init-git.el" "hei" "custom.el" "jhenghei" "楷体" "文Ȫ驿正黑" "switch-window.el" "init-cnfonts.el" "-outline-Microsoft JhengHei-normal-normal-normal-sans-19-*-*-*-p-*-iso8859-1" "jh" "kai" ".*sun" "-outline-Microsoft JhengHei-normal-normal-normal-sans-21-*-*-*-p-*-iso10646-1" ".*simsun" ".*sims" ".*jheng" ".*kai" "-outline-Consolas-normal-normal-normal-mono-*-*-*-*-c-*-iso8859-1" ".*kai.*646" "ibuffer-" ".*hei" "-outline-MS " "-outline.*microsoft" "set-default-font" "*Customize Group: Faces*" "*Customize Group: Emacs*" "init-themes.el" "adwaita" "wheatgrass"))
+(setq-default minibuffer-history '("微软雅黑" "wenquanyi" "Microsoft" "1" "-17" "10" "Microsoft Yahei" "Microsoft YaHei -16" "微软雅黑-12"))
+(setq-default occur-collect-regexp-history '("\\1"))
+(setq-default smex-history '(magit-commit magithub-settings-popup magit-init magit-version customize magithub-dashboard magit-auto-revert-mode))
+(setq-default table-capture-columns-history '(""))
+(setq-default table-capture-justify-history '("left"))
+(setq-default table-capture-min-cell-width-history '("5"))
+(setq-default table-cell-height-history '("1"))
+(setq-default table-cell-span-direction-history '("right"))
+(setq-default table-cell-split-contents-to-history '("split"))
+(setq-default table-cell-split-orientation-history '("horizontally"))
+(setq-default table-cell-width-history '("5"))
+(setq-default table-col-delim-regexp-history '(""))
+(setq-default table-columns-history '("3"))
+(setq-default table-insert-row-column-history '("row"))
+(setq-default table-justify-history '("center"))
+(setq-default table-row-delim-regexp-history '(""))
+(setq-default table-rows-history '("3"))
+(setq-default table-sequence-count-history '("0"))
+(setq-default table-sequence-increment-history '("1"))
+(setq-default table-sequence-interval-history '("1"))
+(setq-default table-sequence-justify-history '("left"))
+(setq-default table-sequence-string-history '("0"))
+(setq-default table-source-caption-history '("Table"))
+(setq-default table-source-language-history '("html"))
+(setq-default table-target-history '("cell"))
+(setq-default tmm--history '("c==>Custom Themes" "F==>Faces Matching..." "o==>Options Matching..." "a==>All Settings Matching..." "g==>Specific Group..." "f==>Specific Face..." "S==>Specific Option..." "n==>New Options..." "s==>Saved Options" "b==>Browse Customization Groups" "t==>Top-level Customization Group"))
+(setq-default transient-history '((magit-commit nil)))

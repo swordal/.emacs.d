@@ -1,0 +1,44 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Mar 13 10:49:58 2019
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23688 28630 123916 0) (desktop . "208") "Peter@PETER-PC" nil nil ((((minibuffer . t) (undecorated) (skip-taskbar) (font-backend uniscribe gdi) (font . "-outline-Consolas-normal-normal-normal-mono-21-*-*-*-c-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#424242") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-focus-on-map) (no-accept-focus) (no-special-glyphs) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 34) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . maximized) (z-group) (visibility . t) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (environment) (frameset--id . "188B-B46B-1EEE-E5FD") (frameset--mini t . t) (width . 132) (modeline . t) (unsplittable) (left + -8) (top + -8) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 96) (min-pixel-width . 120) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 24) (min-pixel-width-safe . 24)) leaf (pixel-width . 1600) (pixel-height . 814) (total-width . 133) (total-height . 33) (normal-height . 1.0) (normal-width . 1.0) (buffer "init-local.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 733) (start . 1))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history nil)
+(setq face-name-history nil)
+(setq file-name-history '("d:/Emacs/.emacs.d/lisp/" "~/.emacs.d/lisp/init-local.el" "~/.emacs.d/custom.el" "~/.emacs.d/lisp/init-cnfonts.el" "~/.emacs.d/custom.el" "~/.emacs.d/cnfonts/cnfonts.conf" "~/.emacs.d/custom.el" "~/.emacs.d/cnfonts/v4/profile1.el" "~/.emacs.d/custom.el" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "~/.emacs.d/lisp/init-local.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "~/.emacs.d/lisp/init-local.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/lisp/init-local.el" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/lisp/init-local.el" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el" "~/.emacs.d/lisp/init-gui-frames.el" "~/.emacs" "~/.emacs.d/lisp/init-themes.el" "~/share/emacs/26.1/lisp/frame.el" "~/.emacs.d/lisp/init-windows.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "c:/Program Files/WenQuanYi/ZenHei/README.txt" "~/.emacs.d/elpa-26.1/fullframe-20170816.1003/fullframe.el" "e:/Dropbox/ToDo/a.md" "~/.emacs.d/lisp/init-local.el" "~/.emacs.d/elpa-26.1/with-editor-20190224.931/with-editor.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale.el" "~/.emacs.d/elpa-26.1/switch-window-20181104.340/switch-window.el" "~/share/emacs/26.1/lisp/linum.el" "~/share/emacs/26.1/lisp/window.el" "~/.emacs.d/elpa-26.1/default-text-scale-20190107.2018/default-text-scale-autoloads.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ivy-history '(".*kai.*646" "ibuffer-" "custom.el" "*scratch*" "custom.el" "*scratch*" ".*hei" "-outline-MS " "-outline.*microsoft" "set-default-font" "*Customize Group: Faces*" "*Customize Group: Emacs*" "init-themes.el" "adwaita" "wheatgrass"))
+(setq minibuffer-history '("‘Î¢‘Èí‘ÑÅ‘ºÚ" "wenquanyi" "Microsoft" "1" "-17" "10" "Microsoft Yahei" "Microsoft YaHei -16" "‘Î¢‘Èí‘ÑÅ‘ºÚ-12"))
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring '("theme"))
+(setq register-alist nil)
+(setq search-ring '("chinese" "fontd" "font" "scale" "theme" "10" "611" "size" "default-text-scale" "scale" "customize" "15" "font" "cnfon" "cnf" "scale"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "d:/Emacs/.emacs.d/lisp/init-local.el"
+  "init-local.el"
+  'emacs-lisp-mode
+  '(eldoc-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode beacon-mode global-auto-revert-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  733
+  '(102 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 23688 28626 8680 0) (buffer-file-coding-system . prefer-utf-8-dos) (overwrite-mode))
+  '((mark-ring (681 102 681 542 542 732 651 500 338 628 733 389 733))))
+

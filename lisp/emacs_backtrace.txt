@@ -1,0 +1,12 @@
+
+Exception 0xc0000005 at this address:
+010e8e6c
+
+Backtrace:
+011622b9
+
+Exception 0xc0000005 at this address:
+010e8e6c
+
+Backtrace:
+011622b9
